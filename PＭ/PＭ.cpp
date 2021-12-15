@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "World!\n";
+    std::cout << "コンフリクト完了！\n";
 
     std::cout << "ブランチを追加\n";
 }
